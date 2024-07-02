@@ -1,4 +1,4 @@
-# slashmark-Basic-Tasl-3
+# slashmark-Basic-Task-3
 
 Name: Kondreddy Dinesh Reddy
 
