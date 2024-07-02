@@ -16,4 +16,5 @@ Description: Generate strong and secure passwords with Python for your accounts.
 
 Task-3 PPT:-
 
-[Uploading Python Password Generator.pptx…]()
+
+[Python Password Generator.pptx](https://github.com/user-attachments/files/16070218/Python.Password.Generator.pptx)
